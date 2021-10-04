@@ -10,9 +10,10 @@
           <v-card elevation="2" shaped height="200">
             <v-card-title>10万人規模の共済システムの改修</v-card-title>
             <v-card-text align="left">
-              ・期間：2021/7より現在<br>
-              ・担当：詳細設計とコーディングやテスト全般<br>
-              ・使用技術：Java(Struts)、SQL(その他RDBMS)<br>
+              期間：2021/7より現在<br>
+              担当：詳細設計とコーディングやテスト全般<br>
+              使用技術：Java(Struts)、SQL(その他RDBMS)<br>
+              使用業務知識：健康保険法<br>
             </v-card-text>
           </v-card>
         </v-col>
