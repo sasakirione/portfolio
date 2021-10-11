@@ -2,8 +2,8 @@
   <div>
     <v-container>
       <v-row>
-        <v-col cols="6">
-          写真
+        <v-col cols="6" align="right">
+          <v-img src="icon.jpg" max-height="200" max-width="200"></v-img>
         </v-col>
         <v-col cols="6" align="left">
           <v-list-item>
@@ -22,7 +22,7 @@
           <v-list-item>
             <v-list-item-content>
               <v-list-item-title>職歴</v-list-item-title>
-              <v-list-item-subtitle>2021年4月から現在 都内SES企業にシステムエンジニアとして勤務</v-list-item-subtitle>
+              <v-list-item-subtitle>2021年4月から現在 都内SES企業にてシステムエンジニアとして勤務</v-list-item-subtitle>
             </v-list-item-content>
           </v-list-item>
           <v-list-item>
@@ -50,6 +50,7 @@
               <v-list-item-subtitle>読書：ジャンルを問わず年間100冊程度読みます</v-list-item-subtitle>
               <v-list-item-subtitle>カメラ：動体を中心に様々な物を撮っています(EOS R5、EOS 5D MarkII)</v-list-item-subtitle>
               <v-list-item-subtitle>アイドル：二次元アイドルを中心に幅広く</v-list-item-subtitle>
+              <v-list-item-subtitle>ポケモン：剣盾から再開した色違い厳選寄りのエンジョイ勢、対戦も少しだけ</v-list-item-subtitle>
             </v-list-item-content>
           </v-list-item>
         </v-col>
