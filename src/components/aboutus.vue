@@ -2,8 +2,8 @@
   <div>
     <v-container>
       <v-row>
-        <v-col cols="6" align="right">
-          <v-img src="icon.jpg" max-height="200" max-width="200"></v-img>
+        <v-col cols="6" align="center">
+          <v-img src="icon.jpg" max-height="300" max-width="300"></v-img>
         </v-col>
         <v-col cols="6" align="left">
           <v-list-item>
